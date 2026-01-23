@@ -52,21 +52,22 @@
 ---
 
 ## 💼 Featured Projects
+
 ### 🔥 iNotebook (MERN Notes App)
 ✅ Auth (Signup/Login) • CRUD Notes • Secure APIs  
-🔗 Repo: https://github.com/ankitojha02/iNotebook
+
 
 ### 🌐 Portfolio Website
 ✅ Modern responsive portfolio built with HTML/CSS/JS  
-🔗 Repo: https://github.com/ankitojha02/Portfolio
+
 
 ### 🧪 API Testing Website (MERN)
 ✅ API Testing UI • History • Response Preview • JSON Viewer  
-🔗 Repo: https://github.com/ankitojha02
+
 
 ### 📄 Nextfolio (Resume Builder)
 ✅ Resume maker for tech enthusiasts  
-🔗 Repo: https://github.com/ankitojha02/Nextfolio
+
 
 > ⭐ Tip: Pin these repositories on your GitHub profile to look more professional.
 
