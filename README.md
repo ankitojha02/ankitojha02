@@ -69,7 +69,7 @@
 ✅ Resume maker for tech enthusiasts  
 
 
-> ⭐ Tip: Pin these repositories on your GitHub profile to look more professional.
+
 
 ---
 
