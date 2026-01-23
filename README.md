@@ -19,7 +19,7 @@
 - 💻 I’m a **MERN Stack Developer** focused on building modern, scalable web applications.
 - 🔥 I love working on **REST APIs, Authentication (JWT), Databases, and real-time apps**.
 - 📌 Currently learning: **DevOps + Cloud Deployment** (AWS, Docker, CI/CD).
-- 🎯 Goal: Crack an internship/job before **May 2026**.
+
 
 ---
 
