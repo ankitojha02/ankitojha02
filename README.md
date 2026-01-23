@@ -26,7 +26,7 @@
 ## 🧠 Tech Stack
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,vite, figma, bootstrap" />
 </p>
 
 ### Backend
