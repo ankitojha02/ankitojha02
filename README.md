@@ -52,7 +52,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitojha02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha02&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 
 ---
 
-## 🏆 Achievements
+
 
 
 
