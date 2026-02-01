@@ -43,7 +43,7 @@
 
 ### 🧠 Programming & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,postman,vscode" />
 </p>
 
 ---
