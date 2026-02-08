@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stacks
 
 ### 💻 Frontend
 <p>
