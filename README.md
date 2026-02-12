@@ -90,6 +90,10 @@
 ## 🌍 Connect With Me
 
 <p align="center">
+  <a href="https://x.com/Ankit_Ojha_01" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/white" height="30" margin-top="10px"/>
+</a>
+
   <a href="https://www.linkedin.com/in/ankit-ojha-763387360/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
