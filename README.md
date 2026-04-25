@@ -64,20 +64,6 @@
 
 
 
-
-
-## 🔥 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📝 **iNotebook** | Secure note-taking app with authentication | MERN Stack |
-| 💬 **GenTalk** | Real-time chat application | React, Node, Socket.io |
-| 🤖 **Fitness Chatbot** | AI-style fitness assistant chat system | React + Node |
-| 🧪 **HuntingAPI** | API testing platform for developers | MERN Stack |
-| 🎨 **UI/UX Web Projects** | Modern responsive and animated designs | HTML, CSS, JS |
-
----
-
 ## 📚 Currently Leveling Up
 
 - 🔹 Data Structures & Algorithms (Java)  
