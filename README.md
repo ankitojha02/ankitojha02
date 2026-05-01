@@ -39,7 +39,7 @@
 
 ### ☁️ Cloud & DevOps (Learning)
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,nginx" />
 </p>
 
 ### 🧠 Programming & Tools
