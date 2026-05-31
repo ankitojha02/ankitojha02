@@ -32,7 +32,7 @@
 
 </p>
 
-### 🖥️ Backend
+### 🖥️ Backend Stacks
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
