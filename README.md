@@ -145,6 +145,12 @@ Goal:
 
 </p>
 
+## 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ankit3059?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</p>
+
 # 💭 Random Dev Quote
 
 <p align="center">
