@@ -44,7 +44,7 @@
 
 ### 🧠 Programming & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,typescript,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,typescript,python,postman,vscode" />
 </p>
 
 ---
