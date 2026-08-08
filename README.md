@@ -84,7 +84,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,next,vite,tailwind,bootstrap,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,next,vite,tailwind,bootstrap,html,css,figma"/>
 
 </p>
 
@@ -94,7 +94,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,mysql"/>
 
 </p>
 
@@ -104,7 +104,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,linux,git,github,nginx"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,linux,git,github,nginx,jenkins,githubactions,terraform" />
 
 </p>
 
@@ -114,7 +114,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,vercel,npm,firebase,supabase"/>
 
 </p>
 
