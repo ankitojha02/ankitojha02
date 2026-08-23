@@ -104,7 +104,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,linux,git,github,nginx,jenkins,githubactions,terraform" />
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,git,github,nginx,githubactions" />
 
 </p>
 
