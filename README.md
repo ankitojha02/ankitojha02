@@ -49,7 +49,7 @@ Name: Ankit Kumar Ojha
 Role: Full Stack Developer
 
 Education:
-  MCA (Online)
+  MCA 
   Manipal University Jaipur
 
 Current Focus:
